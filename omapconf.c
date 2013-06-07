@@ -1205,3 +1205,4 @@ main_exit:
 
 	return ret;
 }
+void dummy() {}
